@@ -1,4 +1,4 @@
-[![Claim Your Sol](图片链接)](https://claimyoursol.app)
+<img src="https://github.com/esssios/claimyoursol/blob/master/20250208-222027.png" alt="Claim Your Sol" width="600" />
 
 ## Claim Your Sol
 
@@ -36,3 +36,16 @@ Yes, ClaimYourSol is safe. It only requires you to connect your wallet and sign 
 - ✅ **Perfect for Solana users**  
 
 💸 **Don’t Miss Out!**
+
+---
+
+### About Us
+- **DApp Name**: `ClaimYourSol`
+
+- **Official Website**: [https://claimyoursol.app/](https://claimyoursol.app/)
+
+- **Telegram**: [https://t.me/claim_solana](https://t.me/claim_solana)
+
+- **X (Twitter)**: [https://x.com/Claim_YourSOL](https://x.com/Claim_YourSOL)
+
+- **GitHub**: [https://github.com/esssios/claimyoursol](https://github.com/esssios/claimyoursol)
